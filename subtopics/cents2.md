@@ -5,6 +5,11 @@ Here is my 2 cents.
 * [DSA](https://algs4.cs.princeton.edu/home/)
 * [Youtube DSA](https://www.youtube.com/c/WilliamFiset-videos/playlists)
 * **[DSA Practice](https://leetcode.com/)**
+    * [75 Must Do Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+        * Easy - 10 min in interview
+        * Medium - 20 min in interview
+        * Hard - 35 min in interview
+        * You must practice to be able to solve all easy and most medium questions.
 * [Design Patterns](https://sourcemaking.com/design_patterns)
 * [Distributed Systems Design Patterns](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Youtube Distributed Systems 1](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
