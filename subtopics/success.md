@@ -22,3 +22,9 @@ Well it's a very subjective area to be honest. Every person's definition of succ
     2. BFS if you want to work on different types of projects to increase the breadth of your knowledge. You will have to change teams and companies in this road.
 8. Don't be afraid to take decisions for your career. Uncertainty of tomorrow will always be there. Don't go into the rabbit hole of what if I did/didn't do that.
 9. Build relationships across team and org. You need a lot of supporters after a certain level. 
+10. LayOffs are a reality in today's world. That's how companies fuel growth in down times.
+11. In a group of engineers, 
+    1. The bad ones don't get through or weeded out.
+    2. The best ones don't need a mic to tell everyone they are the best. The work shows. Nobody messes with them.
+    3. The average ones use all sorts to tricks to stand out.
+    4. Try to be in the top category so you don't have to fight with other engineers, managers to demonstrate your impact/contribution.
