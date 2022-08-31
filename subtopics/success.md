@@ -11,14 +11,16 @@ Well it's a very subjective area to be honest. Every person's definition of succ
 
 ## Promotions
 
-1. IC
+1. IC (Engineering)
     1. Junior > Mid > Senior is relatively straight forward and happens naturally.
     2. Staff is fewer and is only earned when you have demonstrated technical leadership qualities consistently.
     3. Principal is even rarer. A large company with 10K engineers will have less than 15-20 Principal Engineers.
-2. M
+2. M (Management)
     1. Manager > Senior Manager is relatively straight forward.
     2. Director & Senior Director is far fewer and requires consistent demonstration of management aptitude and track record of managing multiple teams & projects.
     3. VP is even rarer. Remember 1 VP per Business Unit/Product Line. An engineering org will have 10-15 VPs or less.
+
+Promotion is also dependent on vacancy, org budget and future roadmap. 
 
 ## Random nuggets
 
