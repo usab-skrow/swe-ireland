@@ -53,7 +53,8 @@ There are primarily 2 broader areas that checked.
     2. OOP round: Checks if your code is modular, readable and is easily extensible.
     3. Work Sample Simulation: Checks how you approach a real world project. Covers design, coding, testing & documentation.
     4. Fix the Bug: Checks how you debug a problem.
-    5. System Design Round (possibly more than 1 for Senior and above): Checks if you can visualize the larger picture and design a distributed system keeping future changes in mind. 
+    5. System Design Round (possibly more than 1 for Senior and above): Checks if you can visualize the larger picture and design a distributed system keeping future changes in mind.
+    6. Bar Raiser: Questions related to company ethics, values, leadership principles and your understanding of them. 
 
 ### Interpersonal
 
