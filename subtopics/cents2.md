@@ -17,3 +17,5 @@ Here is my 2 cents.
 [Culture Map](https://erinmeyer.com/books/the-culture-map/)
 [Staff Engineer](https://staffeng.com/book)
 [Stevey's Rant](https://gist.github.com/chitchcock/1281611)
+
+**Enjoy the ride. This is the best time to be a Softwre Engineer!**
