@@ -4,7 +4,7 @@ Here is my 2 cents.
 
 * [DSA](https://algs4.cs.princeton.edu/home/)
 * [Youtube DSA](https://www.youtube.com/c/WilliamFiset-videos/playlists)
-* [DSA Practice](https://leetcode.com/)
+* **[DSA Practice](https://leetcode.com/)**
 * [Design Patterns](https://sourcemaking.com/design_patterns)
 * [Distributed Systems Design Patterns](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Youtube Distributed Systems 1](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
