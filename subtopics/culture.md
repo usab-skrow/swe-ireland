@@ -19,6 +19,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
 14. Your working hours is usually 8-9 hours in a day. Prioritize work and don't waste time.
 15. Usually you provide the inputs to effort estimation for your work. Once you commit do NOT breach it. 
 16. Take initiative and be proactive about stuffs.
+17. **Learn how to use a debugger. Adding print statements in amateur.**
 16. **Do NOT write ugly code. Simplicity <3**
 
 ## Social Stuff
