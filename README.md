@@ -1,4 +1,4 @@
-## Working in Ireland for Software Engineering Professionals
+### Working in Ireland for Software Engineering Professionals
 
 ### [Overview](./subtopics/overview.md)
 ### [Company & Role categories](./subtopics/categories.md)
