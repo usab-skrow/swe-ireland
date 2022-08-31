@@ -22,6 +22,7 @@ Effectively searching and applying for the correct role can be hard but having a
 ### Other Platforms
 1. Glassdoor
 2. Indeed 
+3. **3rd party recruitment agencies are also a great source of finding the desired job. They are very active and effective in Ireland market.**
 
 ### CV
 1. 1 page CV if you are applying to Senior Software Engineer & below.
