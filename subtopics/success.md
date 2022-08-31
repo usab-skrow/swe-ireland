@@ -7,11 +7,11 @@ Well it's a very subjective area to be honest. Every person's definition of succ
 3. You feel you are adequately compensated for the work you do.
 4. You are learning new things.
 5. You feel your work has visibility and makes a difference.
-6. You have the trust of your teammates and manager on taking care of something.
+6. You have the trust of your teammates and manager in taking care of something.
 
 ## Random nuggets
 
-1. Personally I have found that observing and engaging people who are senior to me on their work helped me grow a lot technically. Understand their rationality and thought process for their work.
+1. Personally I have found that observing and engaging people who are senior to me in their work helped me grow a lot technically. Understand their rationality and thought process for their work.
 2. Being hands-on usually is much better when learning something new. There are many issues that are not covered in documentation which surface on during implementation.
 3. Somethings are earned and somethings are demanded. With experience people understand when to use what.
 4. Experience matters a lot. Most of the knowledge of a lead engineer is from previous experience and very less from documenation.
