@@ -3,7 +3,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
 
 ## Work Stuff
 
-1. Communication: I cannot stress how important this is. It's not humanly possible to know and be an expert everything in the tech & project stack. But good communication can help in clarity of expectations/requirements, failing early & often, asking for help, bouncing off ideas, feedback and getting quality work done.
+1. Communication: I cannot stress how important this is. It's not humanly possible to know and be an expert on everything in the tech & project stack. But good communication can help in clarity of expectations/requirements, failing early & often, asking for help, bouncing off ideas, feedback and getting quality work done.
 2. There is always a balance between feature development vs bug fix vs tackling technical debt.
 3. Do not completely fill your plate from the start. You will be surprised how much of the work is not foreseen beforehand. I say a healthy 70% load is good.
 4. Under-promise & over-deliver is preferred over Over-promise and under-deliver.
