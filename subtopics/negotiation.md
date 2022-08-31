@@ -44,6 +44,8 @@ Amazing! You have a greenlight from the interviewers.
         1. Catered breakfast/lunch
         2. Snacks & Drinks
 3. Visa spnsorship (for non EU folks)
+    1. Relocation allowance if moving from outside Ireland
+    2. Temporary accomodation
 4. Job level
 5. Team (if there are multiple teams with open positions)
 
