@@ -21,3 +21,4 @@ Well it's a very subjective area to be honest. Every person's definition of succ
     1. DFS if you want to be an expert in the company's projects and see a long term future in the company for yourself.
     2. BFS if you want to work on different types of projects to increase the breadth of your knowledge. You will have to change teams and companies in this road.
 8. Don't be afraid to take decisions for your career. Uncertainty of tomorrow will always be there. Don't go into the rabbit hole of what if I did/didn't do that.
+9. Build relationships across team and org. You need a lot of supporters after a certain level. 
