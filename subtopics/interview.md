@@ -63,7 +63,7 @@ There are primarily 2 broader areas that checked.
 4. Program/Product Manager: This round is a meeting with the program/product manager of the project on which you will work on. Its also informal and revolves around project vision, roadmap and your past experiences. 
 
 
-## What I am looking for (If I am a Hiring Manager/Tech Lead)
+### What I am looking for (If I am a Hiring Manager/Tech Lead)
 
 1. Technical Aptitude - Do you really know your stuffs? 
 2. Clarity of thought - Can you approach a problem you have not seen before? Do you think in terms of logical series of steps?
