@@ -63,4 +63,13 @@ There are primarily 2 broader areas that checked.
 4. Program/Product Manager: This round is a meeting with the program/product manager of the project on which you will work on. Its also informal and revolves around project vision, roadmap and your past experiences. 
 
 
-Note: You may encounter only 1 or multiple rounds as listed here. This document captures most common variations of interviews.
+## What I am looking for (If I am a Hiring Manager/Tech Lead)
+
+1. Technical Aptitude - Do you really know your stuffs? 
+2. Clarity of thought - Can you approach a problem you have not seen before? Do you think in terms of logical series of steps?
+3. Communication Skills - Can I understand you? Can you understand me? Will the team/company understand you?
+4. Likeable - Are you a nice person? Qualities like team collaboration, curiosity, empathy, enthusiasm for learning, helpful, cleverness, ambition, vision, attention to detail, looking at the big picture. 
+5. Asset/Liability - Will you be an asset to the team or liability? Both of us can achieve our career goals if you are an asset.
+
+
+**Note: You may encounter only 1 or multiple rounds as listed here. This document captures most common variations of interviews.**
