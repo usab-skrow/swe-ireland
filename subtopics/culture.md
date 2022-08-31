@@ -26,7 +26,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
     4. Judge people less & if you cannot help be objective. 
     5. Most multi nationals are global with people from every region. Actively work on fighting biases due historical or political factors involving people from different places. 
 2. Networking: Actively network with people outside your immediate team and org. You will be surprised how useful it can be.
-3. Personal Space (mostly for folks from non EU): Especially in office every co-worker has a personal area. People might not like if you just walk up to them and start chatting.
+3. Personal Space (mostly for folks from non EU): Especially in office every co-worker has a personal area around the desk. People might not like if you just walk up to them and start chatting.
 4. Privacy (mostly for folks from non EU): Fiendly & Friends are two different things. It is not nice to ask personal questions to someone whom you have only chatted to once or twice. Even though their friendly attitude gives you the impression of knowing them for many years. Be respectful of people's privacy & private information.
 5. Asthetics: Dress Nice, Maintain High Standards of Hygiene, Good posture
 6. Pints: Social life in Dublin revolves around beer (alcohol) especially going to pubs after work for a few pints. It is nice to accompany the team to a pub for a few pints. You can get non alcoholic beers or mocktails if you don't drink. Getting to know your teammates outside work. It can be pretty fun. Also no work talk in the pub.
