@@ -31,6 +31,6 @@ Congratulations on starting your new job. You are both anxious and excited at th
 5. Asthetics: Dress Nice, Maintain High Standards of Hygiene, Good posture
 6. Pints: Social life in Dublin revolves around beer (alcohol) especially going to pubs after work for a few pints. It is nice to accompany the team to a pub for a few pints. You can get non alcoholic beers or mocktails if you don't drink. Getting to know your teammates outside work. It can be pretty fun. Also no work talk in the pub.
 7. Your working hours is usually 7-9 hours in a day. Don't spend most of it in non-work related activities.
-8. Generalization & Steretyping: Do NOT generalize things about people from their appearance based on what you have seen on the TV or internet. Everyone is different.
+8. Generalization & Stereotyping: Do NOT generalize things about people from their appearance based on what you have seen on the TV or internet. Everyone is different.
 9. Visibility: Do not be timid. Share your thoughts and opinions with people freely as long as they not maligning someone. No behind the back b*tching.
 10. Aware of social issues: Be aware of social issues in the world like discrimination against LGBTQ+, inequality, veganism & greenhouse emissions, etc. 
