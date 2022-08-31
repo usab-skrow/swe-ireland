@@ -57,7 +57,7 @@ Amazing! You have a greenlight from the interviewers.
         2. Band B: 50-54K
         3. Band C: 46-50K
         4. Band D: 42-46K 
-    2. Depending on your experience, interview performance, visa sponsorship, ability to join sooner, team/org budget, urgency and hiring manager's frustration levels in getting talent, you will be places in one of these bands. Usually B or C.
+    2. Depending on your experience, interview performance, visa sponsorship, ability to join sooner, team/org budget, urgency and hiring manager's frustration levels in getting talent, you will be placed in one of these bands. Usually B or C.
 2. Do your salary research before you start negotiations or answer "what is your expectation" question.
 3. There is a large variance between pays for different companies for the same experience.
     1. Very high paying companies include Finance/Trading companies, Big Tech, Well funded/Pre IPO startups.
