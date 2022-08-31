@@ -28,6 +28,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
     * We will cross the bridge when we reach it
     * Time-box every work
     * Premature optimization is the root of all evil
+    * If everything is high priority then everything is low priority
 
 ## Social Stuff
 
