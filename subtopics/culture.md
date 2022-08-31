@@ -40,5 +40,5 @@ Congratulations on starting your new job. You are both anxious and excited at th
 8. Generalization & Stereotyping: Do NOT generalize things about people from their appearance based on what you have seen on the TV or internet. Everyone is different.
 9. Visibility: Do not be timid & shy. Share your thoughts and opinions with people freely as long as they not maligning someone/some entity. No behind the back b*tching. If you think its controversial then zip it.
 10. Aware of social issues/movements: Be aware of social issues/movements in the world like discrimination against minorities, LGBTQ+, inequality, veganism, greenhouse emissions, human rights, etc. 
-11. Be sensitive: To pronunciation of a person's name, a person's gender (biological or otherwise), personal beliefs, etc
+11. Be sensitive: To pronunciation of a person's name, a person's pronouns - gender (biological or otherwise), personal beliefs, etc
 12. Work Life Balance: Work is part of your life, Not your entire life. If you find you are not able to make time for other things, take a break and prioritize your workload. Health & Family takes precedence over Work.
