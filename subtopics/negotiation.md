@@ -2,7 +2,7 @@ Amazing! You have a greenlight from the interviewers.
 
 ### Next Steps!
 
-1. Recruiter will set up a call to discuss initial numbers (compensation) & job level(position).
+1. Recruiter will set up a call to discuss initial numbers (compensation) & job level (position).
 2. You get 1-2 days to think about it and come back with a yes / no / i need more.
 3. If you have offers from other companies (especially if it is from a competitor) make sure to let your recruiter know.  This will give you an advantage in the negotiations.
 4. Once both you and recruiter reach an agreement, wait for the recruiter to generate the "offer letter/contract".
@@ -13,7 +13,7 @@ Amazing! You have a greenlight from the interviewers.
 ### Points in negotiation
 
 1. Compensation
-    1. Base Pay (Your salary)
+    1. **Base Pay (Your salary)**
     2. Bonus (Bonus depending on company and your performance)
     3. RSU/ESOP/Commission (Certain companies give equity/commission to employees)
 2. Benefits
