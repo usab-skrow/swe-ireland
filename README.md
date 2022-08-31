@@ -17,3 +17,5 @@ What I have created here is a collection of experiences, advice, rants and rando
 ### [Work Culture](./subtopics/culture.md)
 ### [Success & Growth in your role](./subtopics/success.md)
 ### [My two cents](./subtopics/cents2.md)
+
+When I think about it, these also apply in most countries in a general sense. Certain specifics vary.
