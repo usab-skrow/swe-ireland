@@ -14,7 +14,8 @@ Congratulations on starting your new job. You are both anxious and excited at th
 9. All Pull Requests/Merge Requests should contains its own tests and descriptions.
 10. Do NOT say 70% of the work is done and 30% is left when talking about status updates. Say in Progress or Complete. How do you even measure the percentage? 
 11. Quality over Quantity of work.
-12. **Do NOT write ugnly code.**
+12. Get things to completion.
+13. **Do NOT write ugly code.**
 
 ## Social Stuff
 
