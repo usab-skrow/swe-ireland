@@ -1,6 +1,6 @@
 Well it's a very subjective area to be honest. Every person's definition of success is different.
 
-## Things that could be a parameter to check of professional success
+## Things that could be a parameter to check professional success
 
 1. You enjoy your work.
 2. You are perfectly content in the team/company.
