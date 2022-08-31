@@ -3,9 +3,11 @@
 #### Little something about me
 1. Am a Software Engineer with a some years of experience.
 2. Worked in Software Consulting Services, Product Engineering, Tools Engineering, Cloud Platform Engineering...
-3. Am not from Ireland, am not even from EU.
+3. Am not from Ireland, heck am not even from EU.
 4. Have lived and worked in Ireland for a few years.
-5. Have been through the job hunt process a few times over the years and have my fair share in Ireland.
+5. Have been through the job hunt process a few times over the years and have my fair share of experience in Ireland.
+
+What I have created here is a collection of experience, advice, rants and random thoughts which I think will be useful to people or atleast 1 person. I am not going to lie but it is also to try out Github pages and store this collection in my mind in case I get hit by a car and forget everything. 
 
 ### [Company & Role categories](./subtopics/categories.md)
 ### [Applying to jobs](./subtopics/apply.md)
