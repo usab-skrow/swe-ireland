@@ -29,6 +29,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
     * Manufacturing: Ericsson, Jaguar Land Rover, J&J, Novartis
     * Online Betting/Gambling : PaddyPower, Betfair
     * Crypto: Kraken, Coinbase..
+    * Semiconductor Devices: Intel, AMD, ARM, Analog Devices..
     * Software Consulting Services: EY, Deloitte, Infosys, TCS, Wipro, Accenture
 
 ## Roles
