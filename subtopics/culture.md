@@ -22,7 +22,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
 17. Remember first 6 months are probation, you are still being evaluated before you become full time employee. Also there is something called PIP or "performance improvement plan". PIP is a process to force weak engineers out of the company. If you are PIP'd then start preparing for interviews. 
 17. **Learn how to use a debugger. Adding print statements is amateur.**
 18. **Do NOT write ugly code. Simplicity <3**
-19. Like my tech lead used to tell me all.
+19. Like my tech lead used to tell me always.
     * Try to see the bigger picture
     * Don't put the cart before the horse
     * We will cross the bridge when we reach it
