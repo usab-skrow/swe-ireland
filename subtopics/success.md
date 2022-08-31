@@ -12,7 +12,7 @@ Well it's a very subjective area to be honest. Every person's definition of succ
 ## Random nuggets
 
 1. Personally I have found that observing and engaging people who are senior to me in their work helped me grow a lot technically. Understand their rationality and thought process for their work.
-2. Being hands-on usually is much better when learning something new. There are many issues that are not covered in documentation which surface on during implementation.
+2. Being hands-on usually is much better when learning something new. There are many issues that are not covered in documentation which surface during implementation.
 3. Somethings are earned and somethings are demanded. With experience people understand when to use what.
 4. Experience matters a lot. Most of the knowledge of a lead engineer is from previous experience and very less from documenation.
 5. Sometimes you just have to be in the right place at the right time. Networking increases the odds by a lot.
