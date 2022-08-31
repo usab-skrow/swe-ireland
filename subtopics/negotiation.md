@@ -23,23 +23,24 @@ Amazing! You have a greenlight from the interviewers.
         3. Paternity/Maternity/Adoption Leave (If you become a parent)
         4. Other Leaves (misc)
         5. Wellness days (Certain companies give additional days off to engg orgs every quarter)
-    2. Work from anywhere policy (work from another country for a few days)
-    3. Insurance
+    2. Pension
+    3. Work from anywhere policy (work from another country for a few days)
+    4. Insurance
         1. Life (if you die)
         2. Medical (if you get sick/injured and need treatment)
         3. Dental
         4. Vision
-    4. Office
+    5. Office
         1. Remote (no need to come to office)
         2. Flexible (need to come to office 1-3 days a week/2 weeks)
         3. Required in Office (need to come to office daily)
-    5. Allowances
+    6. Allowances
         1. Wellness
         2. Professional development
         3. Home Office Setup
         4. Bike-to-Work
-    6. Employee discounts
-    7. Office benefits
+    7. Employee discounts
+    8. Office benefits
         1. Catered breakfast/lunch
         2. Snacks & Drinks
 3. Visa spnsorship (for non EU folks)
@@ -50,8 +51,8 @@ Amazing! You have a greenlight from the interviewers.
 
 ### Things to keep in mind
 
-1. Every psoition has an associated range for base pay.
-    1. Say you are interviewing for X level engineer for a company whose average pay for that position is 50,000.
+1. Every psoition has an associated range & levels for base pay.
+    1. Say you are interviewing for X level engineer for a company whose average pay for that position is 50,000. (Example, will be different in reality)
         1. Band A: 54-58K
         2. Band B: 50-54K
         3. Band C: 46-50K
@@ -62,3 +63,13 @@ Amazing! You have a greenlight from the interviewers.
     1. Very high paying companies include Finance/Trading companies, Big Tech, Well funded/Pre IPO startups.
     2. The higher the pay, the higher is the interview bar, the higher is the expectation from the engineer.
     3. Ramp up times, tolerance for mistakes, performance expectations are also reflected in the pay.
+4. If the company has a bonus and/or RSU/ESOP/Commission component, managers have more flexbility in negotiating these than the base pay.
+5. Always do tax calculations to understand what you will receive in your bank account.
+    1. Tax bands for base pay.
+    2. Benefits & Allowances are taxable.
+    3. Bonus/RSUs are taxed at 52% (Aug, 2022) 
+6. Include your cost of living in the calculation. Are you in Dublin or Outside? Do you have to support a family? etc
+
+
+
+Note: Your offer may have 1 or multiple of the above as part of your package. It depends on the company.
