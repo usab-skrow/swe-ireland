@@ -33,4 +33,4 @@ Congratulations on starting your new job. You are both anxious and excited at th
 7. Your working hours is usually 7-9 hours in a day. Don't spend most of it in non-work related activities.
 8. Generalization & Stereotyping: Do NOT generalize things about people from their appearance based on what you have seen on the TV or internet. Everyone is different.
 9. Visibility: Do not be timid. Share your thoughts and opinions with people freely as long as they not maligning someone/some entity. No behind the back b*tching. If you think its controversial then avoid it.
-10. Aware of social issues: Be aware of social issues in the world like discrimination against LGBTQ+, inequality, veganism & greenhouse emissions, etc. 
+10. Aware of social issues/movements: Be aware of social issues in the world like discrimination against LGBTQ+, inequality, veganism, greenhouse emissions, etc. 
