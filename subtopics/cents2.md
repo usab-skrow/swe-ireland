@@ -28,7 +28,7 @@ Here is my 2 cents.
 1. Low corporate taxes.
 2. The only officially english speaking country in European Union.
 3. Member of European Union
-    1. Access to EU (GDPR advantage).
+    1. Access to EU Consumers (GDPR advantage).
     2. Access to EEA + UK workforce (no visa/work permit needed).
 4. Timezone between US West Coast and Asia.
 5. Cheaper labour force than US West Coast (Almost half).
