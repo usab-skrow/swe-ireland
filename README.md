@@ -21,4 +21,4 @@ What I have here is a collection of experiences, advice, rants and random though
 When I think about it, these also apply in most countries in a general sense. Certain specifics vary.
 
 
-**Disclaimer: All content of this site are personal opinion which may or may not apply for other things**
+**Disclaimer: All content of this site are personal opinion which may or may not apply in your case**
