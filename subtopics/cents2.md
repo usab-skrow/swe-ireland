@@ -33,6 +33,7 @@ Here is my 2 cents.
 4. Timezone between US West Coast and Asia.
 5. Cheaper work force than US West Coast (almost half).
 6. Stable society and government.
+7. Even more tax breaks for companies if they employ at least 200 people in Ireland. (Low corp taxes is compensated with high income taxes)
 
 ## Visa Stuffs
 
