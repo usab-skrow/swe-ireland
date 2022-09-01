@@ -58,4 +58,4 @@ Here is my 2 cents.
     2. 25% positions are fixed length contracts.
     3. 25% positions are full time and have visa/work permit sponsorship support (This is a most competitive group. Don't forget applicants are from Ireland, UK, EU, US, Asia, South America, Rest of the World).
 
-**Enjoy the ride. This is the best time to be a Softwre Engineer!**
+**Enjoy the ride. This is the best time to be a Software Engineer!**
