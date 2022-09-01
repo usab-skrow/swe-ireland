@@ -31,7 +31,7 @@ Here is my 2 cents.
     1. Access to EU Consumers (GDPR advantage).
     2. Access to EEA + UK workforce (no visa/work permit needed).
 4. Timezone between US West Coast and Asia.
-5. Cheaper labour force than US West Coast (Almost half).
+5. Cheaper work force than US West Coast (almost half).
 6. Stable society and government.
 
 ## Visa Stuffs
