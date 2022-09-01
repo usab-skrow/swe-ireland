@@ -12,8 +12,8 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ### By Business
 * Internet Business
     * Social Media: Meta, Pinterest, Reddit, Twitter, Tiktok..
-    * Internet Sites: Groupon, TripAdvisor, Yahoo, Google..
-    * ECommerce: Amazon, Zalando, Overstock..
+    * Internet Sites: Groupon, TripAdvisor, Yahoo, Google, Indeed..
+    * ECommerce: Amazon, Zalando, Overstock, Etsy, Shopify..
     * Other: Apple
 * **Enterprise Business**
     * Cloud Managed Services: AWS, GCP, MS Azure, OCI, VMC..
