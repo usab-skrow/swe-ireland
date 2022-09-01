@@ -19,7 +19,7 @@ Congratulations on starting your new job. You are both anxious and excited at th
 14. Your working hours is usually 8-9 hours in a day. Prioritize work and don't waste time.
 15. Usually you provide the inputs to effort estimation for your work. Once you commit do NOT breach it. 
 16. Take initiative and be proactive about stuffs.
-17. Remember first 6 months are probation, you are still being evaluated before you become full time employee. Also there is something called PIP or "performance improvement plan". PIP is a process to force weak engineers out of the company. If you are PIP'd then start preparing for interviews. 
+17. Remember first 6 months are probation, you are still being evaluated before you are confirmed as a full time employee. Also there is something called PIP or "performance improvement plan". PIP is a process to force weak engineers out of the company. If you are PIP'd then start preparing for interviews. 
 17. **Learn how to use a debugger. Adding print statements is amateur.**
 18. **Do NOT write ugly code. Simplicity <3**
 19. Like my tech lead used to tell me always.
