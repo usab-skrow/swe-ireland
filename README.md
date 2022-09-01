@@ -8,7 +8,7 @@
 5. Have been through the job hunt process a few times over the years and have my fair share of experience in Ireland.
 6. Am a backend guy for most part, so my views are from that perspective.
 
-What I have created here is a collection of experiences, advice, rants and random thoughts which I think will be useful to people or atleast 1 person. I am not going to lie but it is also to try out Github pages and store this collection from my mind in case I get hit by a car and forget everything. 
+What I have here is a collection of experiences, advice, rants and random thoughts which I feel will be give interesting insights to people. Also I am not going to lie, but it is also to try out Github pages and store this collection from my mind in case I get hit by a car and forget everything. 
 
 ### [Company & Role categories](./subtopics/categories.md)
 ### [Applying to jobs](./subtopics/apply.md)
@@ -19,3 +19,6 @@ What I have created here is a collection of experiences, advice, rants and rando
 ### [My two cents](./subtopics/cents2.md)
 
 When I think about it, these also apply in most countries in a general sense. Certain specifics vary.
+
+
+**Disclaimer: All content of this site are personal opinion which may or may not apply for other things**

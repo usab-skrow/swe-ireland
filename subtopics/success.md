@@ -40,4 +40,8 @@ Promotion is also dependent on vacancy, org budget and future roadmap.
     1. The bad ones don't get through or weeded out.
     2. The best ones don't need a mic to tell everyone they are the best. The work shows. Nobody messes with them.
     3. The average ones use all sorts to tricks to stand out.
-    4. Try to be in the top category so you don't have to fight with other engineers, managers to demonstrate your impact/contribution.
+    4. Try to be in the top performance category so you don't have to fight with other engineers, managers to demonstrate your impact/contribution.
+12. Outsourcing is a real thing in most global companies. You will always see projects and resource allocation going to countries where the cost of talent is lower and availability is higher.
+13. Location matters in some important things. At a certain level you will see your US based colleagues having more exposure and say in technical strategies and roadmap because that is the HQ where the leadership team sits and plans are made. In a way think of the US company as the mothership and other locations as smaller ships that report to the mothership. 
+
+
