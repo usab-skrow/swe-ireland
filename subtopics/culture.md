@@ -50,4 +50,4 @@ Congratulations on starting your new job. You are both anxious and excited at th
 11. Be sensitive: To pronunciation of a person's name, a person's pronouns - gender (biological or otherwise), personal beliefs, etc
 12. Work Life Balance: Work is part of your life, Not your entire life. If you find you are not able to make time for other things, take a break and prioritize your workload. Health & Family takes precedence over Work. Contact outside work hours is strict no no.
 13. Directness & Sarcasm: This is funny in a way. Some cultures in the EU have speaking your mind and being blunt about things. This can seem rude/mean in other cultures where people sugar coat criticism to not hurt feelings. Also sarcasm levels are higher than what I am used to. Don't say nobody warned you!
-14. Tech in Ireland (Dublin) is a very multi-cultural. So don't be surprised if you don't find any Irish person in the team. Or if you find everyone in the team is from your country. Can happen! 
+14. Tech in Ireland (Dublin) is very multi-cultural. So don't be surprised if you don't find any Irish person in the team. Or if you find everyone in the team is from your country. Can happen! 
