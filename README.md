@@ -6,7 +6,7 @@
 3. Am not from Ireland, heck am not even from EU.
 4. Have lived and worked in Ireland for a few years.
 5. Have been through the job hunt process a few times over the years and have my fair share of experience in Ireland.
-6. I am a backend guy for most part, so my views are from that perspective.
+6. Am a backend guy for most part, so my views are from that perspective.
 
 What I have created here is a collection of experiences, advice, rants and random thoughts which I think will be useful to people or atleast 1 person. I am not going to lie but it is also to try out Github pages and store this collection from my mind in case I get hit by a car and forget everything. 
 
