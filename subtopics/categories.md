@@ -67,7 +67,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
         * Industry level expert.
 * Management
     * Engineering Manager
-        * After reaching Senior Software Engineer, engineers can choose to go into the management track for the next progression.
+        * After reaching Senior Software Engineer, engineers can choose to go into the management track for their next progression.
         * Usually manages 1 team of 3-7 members.
     * Senior Engineering Manager
         * Usually manages more than 1 team.
