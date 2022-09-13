@@ -22,7 +22,7 @@ Amazing! You have a greenlight from the interviewers.
         2. Sick Leave (If you are sick / injured)
         3. Paternity/Maternity/Adoption Leave (If you become a parent)
         4. Other Leaves (misc)
-        5. Wellness days (Certain companies give additional days off to engg orgs every quarter)
+        5. Wellness days (Certain companies give additional days off to orgs every quarter)
     2. Pension
     3. Work from anywhere policy (work from another country for a few days)
     4. Insurance
@@ -53,7 +53,7 @@ Amazing! You have a greenlight from the interviewers.
 
 ### Things to keep in mind
 
-1. Every psoition has an associated range & levels for base pay.
+1. Every position has an associated range & levels for base pay.
     1. Say you are interviewing for X level engineer for a company whose average pay for that position is 50,000. (Example, will be different in reality)
         1. Band A: 54-58K
         2. Band B: 50-54K
